@@ -1,2 +1,4 @@
-# csd-380
- CSD380-O307 DevOps (2261-DD)
+# CSD 380 DevOps
+## Contributors
+*   Darren Darren Osier
+*   Deana
